@@ -34,3 +34,12 @@ with open(path) as f:
 vim = "vim content/post/{year}{month}{day}-{title}.md"
 vim = vim.format(title=title, year=year, month=month, day=day)
 os.system(vim)
+
+subprocess.call('PAUSE', shell=True)
+
+git = '''git add content/post/{year}{month}{day}-{title}.md
+git commit -m "add {year}{month}{day}-{title}.md"
+git push origin master
+'''
+git = git.format(title=title, year=year, month=month, day=day)
+os.system(git)
