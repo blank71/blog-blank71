@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>0407</title>
+      <link>https://blank71.github.io/blog-blank71/post/20200407002/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://blank71.github.io/blog-blank71/post/20200407002/</guid>
+      <description>今日はHugoの環境を整え、GitHub Pagesで見れるようにした。
+AndroidでGo言語とHugoを使えないか模索しているけど依然としてよく分からない。とりあえずGitで記事の内容を追加できるようにはした。
+コロナの影響で「緊急事態宣言」が出されるらしく、これからどうすればいいのだろう。</description>
+    </item>
+    
+    <item>
       <title>Qiitaからの脱退、Hugo立ち上げ</title>
       <link>https://blank71.github.io/blog-blank71/post/20200407/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
