@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Beautiful Hugo</title>
-    <link>https://username.github.io/categories/blog/</link>
+    <link>https://blank71.github.io/blog-blank71/categories/blog/</link>
     <description>Recent content in blog on Beautiful Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://username.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blank71.github.io/blog-blank71/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SNSと思考の変化(Mastodonと分散SNS)</title>
-      <link>https://username.github.io/post/20190715-sns-and-change-of-thinking/</link>
+      <link>https://blank71.github.io/blog-blank71/post/20190715-sns-and-change-of-thinking/</link>
       <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/20190715-sns-and-change-of-thinking/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/20190715-sns-and-change-of-thinking/</guid>
       <description>SNSと思考の変化(Mastodonと分散SNS) 僕はおそらく情報中毒者だ。それは単に現状からの逃避であり、楽であるからだろう。何も考えず、ただ無限に流れてくる情報に身を委ねるだけだ。
 しかし、少し変化したことがある。心理的変化。それはMastodonを始めたということだ。Mastodonを始めたことで、昨今言われている「Twitterはもう駄目だ」という主張について相対的に痛感している。
 分散SNSとは何かを知る上で、面白くて分かりやい投稿を見つけたのでリンクしておく。
@@ -30,29 +30,29 @@ Twitterの悪口など無限に言えそうだし、それぞれの使い方に�
     
     <item>
       <title>Mastdonとは何か</title>
-      <link>https://username.github.io/post/20190216-what-is-mastodon/</link>
+      <link>https://blank71.github.io/blog-blank71/post/20190216-what-is-mastodon/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/20190216-what-is-mastodon/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/20190216-what-is-mastodon/</guid>
       <description>&lt;p&gt;このページは、Mastdonを紹介する動画をつくるためのメモというか原稿的なページ。未完のままである可能性大。というかこれが書いてある時点で未完成である。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>How did you make these pages?</title>
-      <link>https://username.github.io/post/20190216-how-did-you-make-these-pages/</link>
+      <link>https://blank71.github.io/blog-blank71/post/20190216-how-did-you-make-these-pages/</link>
       <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/20190216-how-did-you-make-these-pages/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/20190216-how-did-you-make-these-pages/</guid>
       <description>&lt;p&gt;These pages are made with HUGO.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
     <item>
       <title>What did you do</title>
-      <link>https://username.github.io/post/20190216-what-did-you-do/</link>
+      <link>https://blank71.github.io/blog-blank71/post/20190216-what-did-you-do/</link>
       <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/20190216-what-did-you-do/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/20190216-what-did-you-do/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
