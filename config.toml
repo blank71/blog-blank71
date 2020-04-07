@@ -1,4 +1,5 @@
 baseurl = "https://blank71.github.io/blog-blank71/"
+publishDir = "docs"
 DefaultContentLanguage = "ja"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
