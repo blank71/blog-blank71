@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
-    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blank71.github.io/blog-blank71/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,27 @@
     <item>
       <title>diary</title>
       <link>https://blank71.github.io/blog-blank71/tags/diary/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
       <guid>https://blank71.github.io/blog-blank71/tags/diary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://blank71.github.io/blog-blank71/tags/hugo/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://blank71.github.io/blog-blank71/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://blank71.github.io/blog-blank71/tags/markdown/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://blank71.github.io/blog-blank71/tags/markdown/</guid>
       <description></description>
     </item>
     
@@ -63,15 +81,6 @@
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
       <guid>https://blank71.github.io/blog-blank71/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://blank71.github.io/blog-blank71/tags/markdown/</link>
-      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://blank71.github.io/blog-blank71/tags/markdown/</guid>
       <description></description>
     </item>
     

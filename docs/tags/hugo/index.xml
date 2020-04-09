@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>markdown on Beautiful Hugo</title>
-    <link>https://blank71.github.io/blog-blank71/tags/markdown/</link>
-    <description>Recent content in markdown on Beautiful Hugo</description>
+    <title>hugo on Beautiful Hugo</title>
+    <link>https://blank71.github.io/blog-blank71/tags/hugo/</link>
+    <description>Recent content in hugo on Beautiful Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Wed, 08 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blank71.github.io/blog-blank71/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blank71.github.io/blog-blank71/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,18 +20,6 @@
       <guid>https://blank71.github.io/blog-blank71/post/2020-04-08-diary/</guid>
       <description>AndroidのMarkdownエディタ Androidで手軽に日本語も書けるMarkdownエディタがないか探してみた。「Markor」というオープンソースのエディタがよさそうだった。広告や課金要素がなく、アカウントを作成しなくて済むのが良い点。実際の使い心地はまだよく分からない。新規に作成する場合はいくつかのテンプレートを選択することができ、その中にHugoのテンプレートもあった。テンプレートを自分で追加したり加筆したりすることはできないらしく、Hugoのテンプレートは自分の要件を満たしていない。ここができれば凄い良いのにって思う。
 勉強 全然できていない。習慣化するのが難しい。英語を全然やっていないのでそれを頑張る。朝の流れをちゃんと作ろう！</description>
-    </item>
-    
-    <item>
-      <title>Test markdown</title>
-      <link>https://blank71.github.io/blog-blank71/post/2015-02-20-test-markdown/</link>
-      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://blank71.github.io/blog-blank71/post/2015-02-20-test-markdown/</guid>
-      <description>You can write regular markdown here and Hugo will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.
-Here is some bold text
-Here is a secondary heading Here&amp;rsquo;s a useless table:
-   Number Next number Previous number     Five Six Four   Ten Eleven Nine   Seven Eight Six   Two Three One    How about a yummy crepe?</description>
     </item>
     
   </channel>
