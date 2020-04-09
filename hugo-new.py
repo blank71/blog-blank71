@@ -38,7 +38,7 @@ os.system(vim)
 
 git = '''git pull
 git add content/post/{filename}
-git commit -m "add {filename}"
+git commit -m "Add {filename}"
 git push origin master
 '''
 git = git.format(filename=filename)
