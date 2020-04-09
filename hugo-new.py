@@ -8,17 +8,17 @@ type: ""
 date: {year}-{month}-{day}
 subtitle: ""
 image: ""
-tags: []
+tags: [{tags}]
 ---
 '''
 
-if __name__ == "__main__":
-  title = input("title:")
-  year = input("year:")
-  month = input("month:")
-  day = input("day:")
+title = input("title:")
+year = input("year:")
+month = input("month:")
+day = input("day:")
+tags = input("tags:")
 
-template = template.format(title=title, year=year, month=month, day=day)
+template = template.format(title=title, year=year, month=month, day=day, tags=tags)
 filename = '{year}-{month}-{title}.md'
 filename = filename.format(title=title, year=year, month=month, day=day)
 
@@ -28,18 +28,15 @@ path = path.format(filename=filename)
 with open(path, mode='w') as f:
   f.write(template)
 
-with open(path) as f:
-  print(f.read())
-
 vim = "vim content/post/{filename}"
 vim = vim.format(filename=filename)
 print(vim)
 os.system(vim)
 
 git = '''git pull
-git add content/post/{filename}
+git add {path}
 git commit -m "Add {filename}"
 git push origin master
 '''
-git = git.format(filename=filename)
+git = git.format(path=path, filename=filename)
 os.system(git)
