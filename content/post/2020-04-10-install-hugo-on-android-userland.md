@@ -1,5 +1,5 @@
 ---
-title: "AndroidのUserLAndでHugo使う"
+title: "AndroidのUserLAndでHugoを使う"
 author: ""
 type: ""
 date: 2020-04-10
