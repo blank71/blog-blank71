@@ -21,7 +21,7 @@ day = input("day:")
 tags = input("tags:")
 
 template = template.format(title=title, year=year, month=month, day=day, tags=tags)
-filename = '{year}-{month}-{title}.md'
+filename = '{year}-{month}-{title}-{day}.md'
 filename = filename.format(title=title, year=year, month=month, day=day)
 
 path = 'content/post/{filename}'
