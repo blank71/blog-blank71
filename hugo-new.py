@@ -1,6 +1,8 @@
 import os
 import subprocess
 
+os.system("git pull")
+
 template = '''---
 title: "{year}-{month}-{day}-{title}"
 author: ""
@@ -33,10 +35,18 @@ vim = vim.format(filename=filename)
 print(vim)
 os.system(vim)
 
-git = '''git pull
-git add {path}
+os.system("hugo")
+
+git_push_md = '''git add {path}
 git commit -m "Add {filename}"
 git push origin master
 '''
-git = git.format(path=path, filename=filename)
-os.system(git)
+git_push_md = git_push_md.format(path=path, filename=filename)
+os.system(git_push_md)
+
+git_push_hugo = '''git add -A 
+git commit -m "hugo {year}-{month}-{title}"
+git push origin master
+'''
+git_push_hugo = git_push_hugo.format(title=title, year=year, month=month, day=day)
+os.system(git_push_hugo)
