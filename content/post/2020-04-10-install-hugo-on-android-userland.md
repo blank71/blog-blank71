@@ -1,11 +1,11 @@
 ---
-title: "2020-04-10-install-hugo-on-android-userland"
+title: "AndroidのUserLAndでHugo使う"
 author: ""
 type: ""
 date: 2020-04-10
 subtitle: ""
 image: ""
-tags: [hugo, blog]
+tags: [hugo, blog, UserLAnd]
 ---
 AndroidのLinuxエミュレータの[UserLAnd](https://play.google.com/store/apps/details?id=tech.ula)
 でHugoを使って静的サイトを生成するまでのお話。
@@ -53,5 +53,6 @@ $HOME/go/bin/hugo
 これで完了。`/src`以下はもう必要がないので消しておいた。
 
 ### 蛇足
-UserLAndではデフォルトでは日本語を入力するのに向いていないから、記事本文を書くためのMarkdownエディタのアプリと、タイトルと日にちを打ち込むだけで雛形を作って、Hugoで生成してGitHubにPushしてくれる[Pythonコード](https://github.com/blank71/blog-blank71/blob/master/hugo-new.py)を書いてみた。Pythonのコードを実行し、タイトルと日にちとMarkdownエディタで書いたものをコピペすればできあがり。
+UserLAndではデフォルトでは日本語を入力するのに向いていないから、記事本文を書くためのMarkdownエディタのアプリと、タイトルと日にちを打ち込むだけで雛形を作って、Hugoで生成してGitHubにPushしてくれる[Pythonコード](https://github.com/blank71/blog-blank71/blob/master/hugo-new.py)を書いてみた。Pythonのコードを実行し、タイトルと日にちとMarkdownエディタで書いたものをコピペすればできあがり。まだまだ改善の余地あり。
 
+HugoとGitHub Pagesでサイトを立ち上げたものの、テーマから引っ張ってきたままで何も手を加えていないんだけど知識もないし面倒……。ちまちまやれたらいいな。
