@@ -19,11 +19,12 @@ year = input("year:")
 month = input("month:")
 day = input("day:")
 number = input("number:")
+addition = input("addition:")
 tags = input("tags:")
 
 template = template.format(title=title, year=year, month=month, day=day, tags=tags)
-filename = '{year}-{month}-{day}-{number}.md'
-filename = filename.format(number=number, year=year, month=month, day=day)
+filename = '{year}-{month}-{day}-{number}{addition}.md'
+filename = filename.format(addition=addition,number=number, year=year, month=month, day=day)
 
 path = 'content/post/{filename}'
 path = path.format(filename=filename)
