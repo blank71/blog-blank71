@@ -4,7 +4,7 @@ import subprocess
 os.system("git pull")
 
 template = '''---
-title: "{year}-{month}-{day}-{title}"
+title: "{title}"
 author: ""
 type: ""
 date: {year}-{month}-{day}
@@ -18,11 +18,12 @@ title = input("title:")
 year = input("year:")
 month = input("month:")
 day = input("day:")
+number = input("number")
 tags = input("tags:")
 
 template = template.format(title=title, year=year, month=month, day=day, tags=tags)
-filename = '{year}-{month}-{title}-{day}.md'
-filename = filename.format(title=title, year=year, month=month, day=day)
+filename = '{year}-{month}-{day}-{number}.md'
+filename = filename.format(number=number, year=year, month=month, day=day)
 
 path = 'content/post/{filename}'
 path = path.format(filename=filename)
@@ -45,8 +46,8 @@ git_push_md = git_push_md.format(path=path, filename=filename)
 os.system(git_push_md)
 
 git_push_hugo = '''git add -A 
-git commit -m "hugo {year}-{month}-{title}"
+git commit -m "hugo {filename}"
 git push origin master
 '''
-git_push_hugo = git_push_hugo.format(title=title, year=year, month=month, day=day)
+git_push_hugo = git_push_hugo.format(filename=filename)
 os.system(git_push_hugo)
