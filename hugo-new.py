@@ -18,7 +18,7 @@ title = input("title:")
 year = input("year:")
 month = input("month:")
 day = input("day:")
-number = input("number")
+number = input("number:")
 tags = input("tags:")
 
 template = template.format(title=title, year=year, month=month, day=day, tags=tags)
