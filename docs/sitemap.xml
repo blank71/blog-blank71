@@ -4,8 +4,38 @@
   
   <url>
     <loc>https://blank71.github.io/blog-blank71/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog-blank71/tags/android/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog-blank71/tags/narou.rb/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog-blank71/post/2020-05-07-/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog-blank71/post/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog-blank71/tags/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog-blank71/tags/userland/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -15,16 +45,6 @@
   
   <url>
     <loc>https://blank71.github.io/blog-blank71/tags/diary/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blank71.github.io/blog-blank71/post/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blank71.github.io/blog-blank71/tags/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -65,11 +85,6 @@
   
   <url>
     <loc>https://blank71.github.io/blog-blank71/tags/hugo/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blank71.github.io/blog-blank71/tags/userland/</loc>
     <lastmod>2020-04-10T00:00:00+00:00</lastmod>
   </url>
   

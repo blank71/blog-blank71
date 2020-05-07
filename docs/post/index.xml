@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blank71.github.io/blog-blank71/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Narou.rb on UserLAnd(Android)</title>
+      <link>https://blank71.github.io/blog-blank71/post/2020-05-07-/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://blank71.github.io/blog-blank71/post/2020-05-07-/</guid>
+      <description>&lt;p&gt;AndroidでLinuxの環境が作れるUserLAndというアプリでUbuntuを使い、Narou.rbというものをインストールしようと思った。その備忘録。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2020-04-dairy</title>
