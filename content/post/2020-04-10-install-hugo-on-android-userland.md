@@ -5,7 +5,7 @@ type: ""
 date: 2020-04-10
 subtitle: ""
 image: ""
-tags: [hugo, blog, UserLAnd]
+tags: [hugo, blog, UserLAnd, Android]
 ---
 AndroidのLinuxエミュレータの[UserLAnd](https://play.google.com/store/apps/details?id=tech.ula)
 でHugoを使って静的サイトを生成するまでのお話。
