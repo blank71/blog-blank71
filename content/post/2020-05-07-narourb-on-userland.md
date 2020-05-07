@@ -73,7 +73,7 @@ $ narou init
 > $HOME/narou/Aozora3
 ````
 
-あとはNarou.rbのドキュメントを参照して使えば良い。
+あとはNarou.rbのドキュメントを参照して使えば良い。Ubuntuの日本語化をしていないと出力時にエラーになるので日本語化しておく必要がある。
 UserLAndにあるデータをAndroidのファイルマネージャーで閲覧することができないので見えるところに転送する必要がある。
 ````
 $ cp $HOME/narou /storage/internal
