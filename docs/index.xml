@@ -12,103 +12,103 @@
     
     <item>
       <title>Narou.rb on UserLAnd(Android)</title>
-      <link>https://blank71.github.io/blog-blank71/blog/2020-05-07-narourb-on-userland/</link>
+      <link>https://blank71.github.io/blog-blank71/post/blog/2020-05-07-narourb-on-userland/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/blog/2020-05-07-narourb-on-userland/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/blog/2020-05-07-narourb-on-userland/</guid>
       <description>&lt;p&gt;AndroidでLinuxの環境が作れるUserLAndというアプリでUbuntuを使い、Narou.rbというものをインストールしようと思った。その備忘録。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2020-04-dairy</title>
-      <link>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-30/</link>
+      <link>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-30/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-30/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-30/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2020-04-14-diary</title>
-      <link>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-14-01/</link>
+      <link>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-14-01/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-14-01/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-14-01/</guid>
       <description>&lt;p&gt;LINEグループからDiscord移行。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2020-04-13-diary</title>
-      <link>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-13-01/</link>
+      <link>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-13-01/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-13-01/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-13-01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2020-04-12-diary</title>
-      <link>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-12-01/</link>
+      <link>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-12-01/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-12-01/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-12-01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2020-04-11-diary</title>
-      <link>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-11-diary/</link>
+      <link>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-11-diary/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-11-diary/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-11-diary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2020-04-10-diary</title>
-      <link>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-10-diary/</link>
+      <link>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-10-diary/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-10-diary/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-10-diary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AndroidのUserLAndでHugoを使う</title>
-      <link>https://blank71.github.io/blog-blank71/blog/2020-04-10-install-hugo-on-android-userland/</link>
+      <link>https://blank71.github.io/blog-blank71/post/blog/2020-04-10-install-hugo-on-android-userland/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/blog/2020-04-10-install-hugo-on-android-userland/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/blog/2020-04-10-install-hugo-on-android-userland/</guid>
       <description>&lt;p&gt;AndroidのLinuxエミュレータの&lt;a href=&#34;https://play.google.com/store/apps/details?id=tech.ula&#34;&gt;UserLAnd&lt;/a&gt;
 でHugoを使って静的サイトを生成するまでのお話。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2020-04-09-diary</title>
-      <link>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-09-diary/</link>
+      <link>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-09-diary/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-09-diary/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-09-diary/</guid>
       <description>diary 昨日、佐賀に住む祖母から初めて手紙というものを受け取った。以前、親が私の写真を送っていたのでその返答のようなものなのだろう。手紙の内容は2浪する私への励ましだった。それよりも字に驚きを隠せない。例えば「楽しい」は「薬しい」だし「〇〇を」は「〇〇お」だし第一、私の名前の漢字さえ間違っている。祖母は読み書きができない人間なのか脳に障害を抱えているのだろうか。後者の場合は将来的に大変なことになりそうだ。読み書きができない世代というのは祖母の年齢あたりの世代なのだろうか。更に上の世代かと漫然と思っていたがどうなのだろう。近いうちに手紙を書いて送ろう。
 勉強 昨日よりは多少は勉強したが皆無に等しい。</description>
     </item>
     
     <item>
       <title>2020-04-08-diary</title>
-      <link>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-08-diary/</link>
+      <link>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-08-diary/</link>
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-08-diary/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-08-diary/</guid>
       <description>AndroidのMarkdownエディタ Androidで手軽に日本語も書けるMarkdownエディタがないか探してみた。「Markor」というオープンソースのエディタがよさそうだった。広告や課金要素がなく、アカウントを作成しなくて済むのが良い点。実際の使い心地はまだよく分からない。新規に作成する場合はいくつかのテンプレートを選択することができ、その中にHugoのテンプレートもあった。テンプレートを自分で追加したり加筆したりすることはできないらしく、Hugoのテンプレートは自分の要件を満たしていない。ここができれば凄い良いのにって思う。
 勉強 全然できていない。習慣化するのが難しい。英語を全然やっていないのでそれを頑張る。朝の流れをちゃんと作ろう！</description>
     </item>
     
     <item>
       <title>2020-04-07-diary</title>
-      <link>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-07-diary/</link>
+      <link>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-07-diary/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-07-diary/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-07-diary/</guid>
       <description>今日はHugoの環境を整え、GitHub Pagesで見れるようにした。
 AndroidでGo言語とHugoを使えないか模索しているけど依然としてよく分からない。とりあえずGitで記事の内容を追加できるようにはした。
 コロナの影響で「緊急事態宣言」が出されるらしく、これからどうすればいいのだろう。
@@ -118,19 +118,19 @@ Abemaで「まちカドまぞく」が無料で公開されていた。無料期
     
     <item>
       <title>Qiitaからの脱退、Hugo立ち上げ</title>
-      <link>https://blank71.github.io/blog-blank71/blog/2020-04-07-hugo/</link>
+      <link>https://blank71.github.io/blog-blank71/post/blog/2020-04-07-hugo/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/blog/2020-04-07-hugo/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/blog/2020-04-07-hugo/</guid>
       <description>&lt;p&gt;2020年のQiita騒動をきっかけにQiitaの記事が削除されたり、退会する人が相次いだ。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>SNSと思考の変化(Mastodonと分散SNS)</title>
-      <link>https://blank71.github.io/blog-blank71/blog/2019-07-15-sns-and-change-of-thinking/</link>
+      <link>https://blank71.github.io/blog-blank71/post/blog/2019-07-15-sns-and-change-of-thinking/</link>
       <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/blog/2019-07-15-sns-and-change-of-thinking/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/blog/2019-07-15-sns-and-change-of-thinking/</guid>
       <description>SNSと思考の変化(Mastodonと分散SNS) 僕はおそらく情報中毒者だ。それは単に現状からの逃避であり、楽であるからだろう。何も考えず、ただ無限に流れてくる情報に身を委ねるだけだ。
 しかし、少し変化したことがある。心理的変化。それはMastodonを始めたということだ。Mastodonを始めたことで、昨今言われている「Twitterはもう駄目だ」という主張について相対的に痛感している。
 分散SNSとは何かを知る上で、面白くて分かりやい投稿を見つけたのでリンクしておく。
@@ -138,52 +138,43 @@ Abemaで「まちカドまぞく」が無料で公開されていた。無料期
 簡単にいうと、分散SNSは各個人がサーバーを建てて、相互が緩く結びつくことができるのだ。Twitterとは違い、管理者はサーバーを建てたサーバー管理者（日本では「鯖缶」という愛称で呼ばれている）なので、理不尽にBANされることは無い。中央集権型のTwitterと反して対照的な性質を持っていると言える。
 Twitterの悪口など無限に言えそうだし、それぞれの使い方によって、それを善とするか悪とするかは違いそうでもある。 なのでMastodonの良いところを挙げていきたい
 いいね（fav）とBoost（TwitterのRTと同じ）の数は重要視されていない a
-投稿範囲の自由度の高さ 投稿にCWとNFSWの機能がある </description>
-    </item>
-    
-    <item>
-      <title>Mastdonとは何か</title>
-      <link>https://blank71.github.io/blog-blank71/blog/2019-02-16-what-is-mastodon/</link>
-      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://blank71.github.io/blog-blank71/blog/2019-02-16-what-is-mastodon/</guid>
-      <description>&lt;p&gt;このページは、Mastdonを紹介する動画をつくるためのメモというか原稿的なページ。未完のままである可能性大。というかこれが書いてある時点で未完成である。&lt;/p&gt;</description>
+投稿範囲の自由度の高さ 投稿にCWとNFSWの機能がある This article is not finish writing.</description>
     </item>
     
     <item>
       <title>How did you make these pages?</title>
-      <link>https://blank71.github.io/blog-blank71/blog/2019-02-16-how-did-you-make-these-pages/</link>
+      <link>https://blank71.github.io/blog-blank71/post/blog/2019-02-16-how-did-you-make-these-pages/</link>
       <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/blog/2019-02-16-how-did-you-make-these-pages/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/blog/2019-02-16-how-did-you-make-these-pages/</guid>
       <description>&lt;p&gt;These pages are made with HUGO.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
     <item>
       <title>What did you do</title>
-      <link>https://blank71.github.io/blog-blank71/blog/2019-02-16-what-did-you-do/</link>
+      <link>https://blank71.github.io/blog-blank71/post/blog/2019-02-16-what-did-you-do/</link>
       <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/blog/2019-02-16-what-did-you-do/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/blog/2019-02-16-what-did-you-do/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://blank71.github.io/blog-blank71/blog/2019-02-15-about-me/</link>
+      <link>https://blank71.github.io/blog-blank71/post/blog/2019-02-15-about-me/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/blog/2019-02-15-about-me/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/blog/2019-02-15-about-me/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
     <item>
       <title>Links</title>
-      <link>https://blank71.github.io/blog-blank71/blog/2019-02-15-links/</link>
+      <link>https://blank71.github.io/blog-blank71/post/blog/2019-02-15-links/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blank71.github.io/blog-blank71/blog/2019-02-15-links/</guid>
+      <guid>https://blank71.github.io/blog-blank71/post/blog/2019-02-15-links/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     

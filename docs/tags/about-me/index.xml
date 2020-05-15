@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about me on Beautiful Hugo</title>
+    <link>https://blank71.github.io/blog-blank71/tags/about-me/</link>
+    <description>Recent content in about me on Beautiful Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blank71.github.io/blog-blank71/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What did you do</title>
+      <link>https://blank71.github.io/blog-blank71/post/blog/2019-02-16-what-did-you-do/</link>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blank71.github.io/blog-blank71/post/blog/2019-02-16-what-did-you-do/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://blank71.github.io/blog-blank71/post/blog/2019-02-15-about-me/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blank71.github.io/blog-blank71/post/blog/2019-02-15-about-me/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://blank71.github.io/blog-blank71/post/blog/2019-02-15-links/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blank71.github.io/blog-blank71/post/blog/2019-02-15-links/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
