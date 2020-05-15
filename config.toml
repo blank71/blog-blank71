@@ -76,8 +76,8 @@ pygmentsCodefencesGuessSyntax = true
  #slack = "username"
 
 [[menu.main]]
-    name = "Blog"
-    url = ""
+    name = "blog"
+    url = "post/blog/"
     weight = 1
 
 [[menu.main]]
@@ -86,11 +86,11 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
 [[menu.main]]
-    identifier = "samples"
-    name = "Samples"
+    identifier = "diary"
+    name = "post/diary"
     weight = 2
 
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 3
+    weight = 4
