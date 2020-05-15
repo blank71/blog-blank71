@@ -20,15 +20,5 @@
 でHugoを使って静的サイトを生成するまでのお話。&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>AndroidのUserLAndでHugoを使う</title>
-      <link>https://blank71.github.io/blog-blank71/post/blog/2020-04-10-install-hugo-on-android-userland/</link>
-      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blank71.github.io/blog-blank71/post/blog/2020-04-10-install-hugo-on-android-userland/</guid>
-      <description>&lt;p&gt;AndroidのLinuxエミュレータの&lt;a href=&#34;https://play.google.com/store/apps/details?id=tech.ula&#34;&gt;UserLAnd&lt;/a&gt;
-でHugoを使って静的サイトを生成するまでのお話。&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

@@ -27,36 +27,11 @@ Twitterの悪口など無限に言えそうだし、それぞれの使い方に�
     </item>
     
     <item>
-      <title>SNSと思考の変化(Mastodonと分散SNS)</title>
-      <link>https://blank71.github.io/blog-blank71/post/blog/2019-07-15-sns-and-change-of-thinking/</link>
-      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://blank71.github.io/blog-blank71/post/blog/2019-07-15-sns-and-change-of-thinking/</guid>
-      <description>SNSと思考の変化(Mastodonと分散SNS) 僕はおそらく情報中毒者だ。それは単に現状からの逃避であり、楽であるからだろう。何も考えず、ただ無限に流れてくる情報に身を委ねるだけだ。
-しかし、少し変化したことがある。心理的変化。それはMastodonを始めたということだ。Mastodonを始めたことで、昨今言われている「Twitterはもう駄目だ」という主張について相対的に痛感している。
-分散SNSとは何かを知る上で、面白くて分かりやい投稿を見つけたのでリンクしておく。
-増田でわかる分散SNS https://anond.hatelabo.jp/20190612205701
-簡単にいうと、分散SNSは各個人がサーバーを建てて、相互が緩く結びつくことができるのだ。Twitterとは違い、管理者はサーバーを建てたサーバー管理者（日本では「鯖缶」という愛称で呼ばれている）なので、理不尽にBANされることは無い。中央集権型のTwitterと反して対照的な性質を持っていると言える。
-Twitterの悪口など無限に言えそうだし、それぞれの使い方によって、それを善とするか悪とするかは違いそうでもある。 なのでMastodonの良いところを挙げていきたい
-いいね（fav）とBoost（TwitterのRTと同じ）の数は重要視されていない a
-投稿範囲の自由度の高さ 投稿にCWとNFSWの機能がある </description>
-    </item>
-    
-    <item>
       <title>Mastdonとは何か</title>
       <link>https://blank71.github.io/blog-blank71/blog/2019-02-16-what-is-mastodon/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://blank71.github.io/blog-blank71/blog/2019-02-16-what-is-mastodon/</guid>
-      <description>&lt;p&gt;このページは、Mastdonを紹介する動画をつくるためのメモというか原稿的なページ。未完のままである可能性大。というかこれが書いてある時点で未完成である。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Mastdonとは何か</title>
-      <link>https://blank71.github.io/blog-blank71/post/blog/2019-02-16-what-is-mastodon/</link>
-      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://blank71.github.io/blog-blank71/post/blog/2019-02-16-what-is-mastodon/</guid>
       <description>&lt;p&gt;このページは、Mastdonを紹介する動画をつくるためのメモというか原稿的なページ。未完のままである可能性大。というかこれが書いてある時点で未完成である。&lt;/p&gt;</description>
     </item>
     
@@ -71,30 +46,11 @@ Twitterの悪口など無限に言えそうだし、それぞれの使い方に�
     </item>
     
     <item>
-      <title>How did you make these pages?</title>
-      <link>https://blank71.github.io/blog-blank71/post/blog/2019-02-16-how-did-you-make-these-pages/</link>
-      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://blank71.github.io/blog-blank71/post/blog/2019-02-16-how-did-you-make-these-pages/</guid>
-      <description>&lt;p&gt;These pages are made with HUGO.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
-    </item>
-    
-    <item>
       <title>What did you do</title>
       <link>https://blank71.github.io/blog-blank71/blog/2019-02-16-what-did-you-do/</link>
       <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://blank71.github.io/blog-blank71/blog/2019-02-16-what-did-you-do/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;</description>
-    </item>
-    
-    <item>
-      <title>What did you do</title>
-      <link>https://blank71.github.io/blog-blank71/post/blog/2019-02-16-what-did-you-do/</link>
-      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://blank71.github.io/blog-blank71/post/blog/2019-02-16-what-did-you-do/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
