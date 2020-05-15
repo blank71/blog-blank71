@@ -5,8 +5,6 @@
     <link>https://blank71.github.io/blog-blank71/tags/blog/</link>
     <description>Recent content in blog on Beautiful Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (8blnak71)</managingEditor>
-    <webMaster>youremail@domain.com (8blnak71)</webMaster>
     <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blank71.github.io/blog-blank71/tags/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +14,7 @@
       <title>AndroidのUserLAndでHugoを使う</title>
       <link>https://blank71.github.io/blog-blank71/post/2020-04-10-install-hugo-on-android-userland/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (8blnak71)</author>
+      
       <guid>https://blank71.github.io/blog-blank71/post/2020-04-10-install-hugo-on-android-userland/</guid>
       <description>&lt;p&gt;AndroidのLinuxエミュレータの&lt;a href=&#34;https://play.google.com/store/apps/details?id=tech.ula&#34;&gt;UserLAnd&lt;/a&gt;
 でHugoを使って静的サイトを生成するまでのお話。&lt;/p&gt;</description>
