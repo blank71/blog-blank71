@@ -77,7 +77,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "blog"
-    url = "post/blog/"
+    url = "page/post/blog/"
     weight = 1
 
 [[menu.main]]
