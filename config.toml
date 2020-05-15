@@ -86,8 +86,9 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
 [[menu.main]]
-    identifier = "post/diary"
-    name = "post/diary"
+    name = "diary"
+    #identifier = "post/diary/"
+    url =  "diary/"
     weight = 2
 
 [[menu.main]]

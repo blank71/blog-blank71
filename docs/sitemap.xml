@@ -13,7 +13,17 @@
   </url>
   
   <url>
+    <loc>https://blank71.github.io/blog-blank71/blog/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blank71.github.io/blog-blank71/tags/narou.rb/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog-blank71/blog/2020-05-07-narourb-on-userland/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,7 +48,17 @@
   </url>
   
   <url>
+    <loc>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-30/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-30/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog-blank71/diary/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,8 +68,18 @@
   </url>
   
   <url>
+    <loc>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-14-01/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-14-01/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-13-01/</loc>
+    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,8 +88,18 @@
   </url>
   
   <url>
+    <loc>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-12-01/</loc>
+    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-12-01/</loc>
     <lastmod>2020-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-11-diary/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -68,7 +108,17 @@
   </url>
   
   <url>
+    <loc>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-10-diary/</loc>
+    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-10-diary/</loc>
+    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog-blank71/blog/2020-04-10-install-hugo-on-android-userland/</loc>
     <lastmod>2020-04-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,8 +138,18 @@
   </url>
   
   <url>
+    <loc>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-09-diary/</loc>
+    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-09-diary/</loc>
     <lastmod>2020-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-08-diary/</loc>
+    <lastmod>2020-04-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -103,7 +163,17 @@
   </url>
   
   <url>
+    <loc>https://blank71.github.io/blog-blank71/diary/2020-04/2020-04-07-diary/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blank71.github.io/blog-blank71/post/diary/2020-04/2020-04-07-diary/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog-blank71/blog/2020-04-07-hugo/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,8 +193,18 @@
   </url>
   
   <url>
+    <loc>https://blank71.github.io/blog-blank71/blog/2019-07-15-sns-and-change-of-thinking/</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blank71.github.io/blog-blank71/post/blog/2019-07-15-sns-and-change-of-thinking/</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog-blank71/blog/2019-02-16-what-is-mastodon/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -133,7 +213,17 @@
   </url>
   
   <url>
+    <loc>https://blank71.github.io/blog-blank71/blog/2019-02-16-how-did-you-make-these-pages/</loc>
+    <lastmod>2019-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blank71.github.io/blog-blank71/post/blog/2019-02-16-how-did-you-make-these-pages/</loc>
+    <lastmod>2019-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog-blank71/blog/2019-02-16-what-did-you-do/</loc>
     <lastmod>2019-02-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,12 +238,22 @@
   </url>
   
   <url>
+    <loc>https://blank71.github.io/blog-blank71/blog/2019-02-15-about-me/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blank71.github.io/blog-blank71/post/blog/2019-02-15-about-me/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blank71.github.io/blog-blank71/categories/links/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blank71.github.io/blog-blank71/blog/2019-02-15-links/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
   </url>
   

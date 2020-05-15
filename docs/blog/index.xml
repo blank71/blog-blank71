@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Beautiful Hugo</title>
+    <link>https://blank71.github.io/blog-blank71/blog/</link>
+    <description>Recent content in Blogs on Beautiful Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blank71.github.io/blog-blank71/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Narou.rb on UserLAnd(Android)</title>
+      <link>https://blank71.github.io/blog-blank71/blog/2020-05-07-narourb-on-userland/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blank71.github.io/blog-blank71/blog/2020-05-07-narourb-on-userland/</guid>
+      <description>&lt;p&gt;AndroidでLinuxの環境が作れるUserLAndというアプリでUbuntuを使い、Narou.rbというものをインストールしようと思った。その備忘録。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AndroidのUserLAndでHugoを使う</title>
+      <link>https://blank71.github.io/blog-blank71/blog/2020-04-10-install-hugo-on-android-userland/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blank71.github.io/blog-blank71/blog/2020-04-10-install-hugo-on-android-userland/</guid>
+      <description>&lt;p&gt;AndroidのLinuxエミュレータの&lt;a href=&#34;https://play.google.com/store/apps/details?id=tech.ula&#34;&gt;UserLAnd&lt;/a&gt;
+でHugoを使って静的サイトを生成するまでのお話。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Qiitaからの脱退、Hugo立ち上げ</title>
+      <link>https://blank71.github.io/blog-blank71/blog/2020-04-07-hugo/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blank71.github.io/blog-blank71/blog/2020-04-07-hugo/</guid>
+      <description>&lt;p&gt;2020年のQiita騒動をきっかけにQiitaの記事が削除されたり、退会する人が相次いだ。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SNSと思考の変化(Mastodonと分散SNS)</title>
+      <link>https://blank71.github.io/blog-blank71/blog/2019-07-15-sns-and-change-of-thinking/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blank71.github.io/blog-blank71/blog/2019-07-15-sns-and-change-of-thinking/</guid>
+      <description>SNSと思考の変化(Mastodonと分散SNS) 僕はおそらく情報中毒者だ。それは単に現状からの逃避であり、楽であるからだろう。何も考えず、ただ無限に流れてくる情報に身を委ねるだけだ。
+しかし、少し変化したことがある。心理的変化。それはMastodonを始めたということだ。Mastodonを始めたことで、昨今言われている「Twitterはもう駄目だ」という主張について相対的に痛感している。
+分散SNSとは何かを知る上で、面白くて分かりやい投稿を見つけたのでリンクしておく。
+増田でわかる分散SNS https://anond.hatelabo.jp/20190612205701
+簡単にいうと、分散SNSは各個人がサーバーを建てて、相互が緩く結びつくことができるのだ。Twitterとは違い、管理者はサーバーを建てたサーバー管理者（日本では「鯖缶」という愛称で呼ばれている）なので、理不尽にBANされることは無い。中央集権型のTwitterと反して対照的な性質を持っていると言える。
+Twitterの悪口など無限に言えそうだし、それぞれの使い方によって、それを善とするか悪とするかは違いそうでもある。 なのでMastodonの良いところを挙げていきたい
+いいね（fav）とBoost（TwitterのRTと同じ）の数は重要視されていない a
+投稿範囲の自由度の高さ 投稿にCWとNFSWの機能がある </description>
+    </item>
+    
+    <item>
+      <title>Mastdonとは何か</title>
+      <link>https://blank71.github.io/blog-blank71/blog/2019-02-16-what-is-mastodon/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blank71.github.io/blog-blank71/blog/2019-02-16-what-is-mastodon/</guid>
+      <description>&lt;p&gt;このページは、Mastdonを紹介する動画をつくるためのメモというか原稿的なページ。未完のままである可能性大。というかこれが書いてある時点で未完成である。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How did you make these pages?</title>
+      <link>https://blank71.github.io/blog-blank71/blog/2019-02-16-how-did-you-make-these-pages/</link>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blank71.github.io/blog-blank71/blog/2019-02-16-how-did-you-make-these-pages/</guid>
+      <description>&lt;p&gt;These pages are made with HUGO.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>What did you do</title>
+      <link>https://blank71.github.io/blog-blank71/blog/2019-02-16-what-did-you-do/</link>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blank71.github.io/blog-blank71/blog/2019-02-16-what-did-you-do/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://blank71.github.io/blog-blank71/blog/2019-02-15-about-me/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blank71.github.io/blog-blank71/blog/2019-02-15-about-me/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://blank71.github.io/blog-blank71/blog/2019-02-15-links/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blank71.github.io/blog-blank71/blog/2019-02-15-links/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
